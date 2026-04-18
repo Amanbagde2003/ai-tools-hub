@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amanbagde2003.github.io/ai-tools-hub/sitemap.xml
