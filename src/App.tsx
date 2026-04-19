@@ -474,7 +474,15 @@ export default function App() {
             </motion.div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-20">
-              {AGENT_TOOLS.map((tool) => {
+              {AGENT_TOOLS
+  .filter(
+    (tool) =>
+      tool &&
+      tool.name &&
+      tool.description &&
+      tool.url
+  )
+  .map((tool) => {
                 const Icon = IconMap[tool.icon] || Bot;
                 return (
                   <motion.a 
