@@ -543,8 +543,152 @@ export const AGENT_TOOLS: AIAgentTool[] = [
     difficulty: 'Easy',
     pricing: 'Freemium',
     icon: 'Terminal',
-    url: 'https://platform.openai.com/playground'
-  }
+   url: 'https://platform.openai.com/playground'
+},
+{
+  id: '11',
+  title: 'Best Free AI Tools for Students',
+  excerpt: 'Discover the best free AI tools that help students study, write assignments and learn faster.',
+  content: `
+# Best Free AI Tools for Students
+
+Students can use AI tools to save time, improve learning and complete assignments more efficiently.
+
+## ChatGPT
+ChatGPT helps students understand difficult concepts, summarize chapters, solve doubts and generate notes.
+
+## Gemini
+Gemini is useful for research, answering questions and creating quick summaries.
+
+## Grammarly
+Grammarly improves grammar, spelling and sentence structure.
+
+## Notion AI
+Notion AI helps organize notes, create study plans and manage tasks.
+
+## Canva AI
+Canva AI can create presentations, posters and school projects quickly.
+
+## Which Tool Is Best?
+For study help, ChatGPT is best. For writing, Grammarly is useful. For notes and planning, Notion AI is excellent.
+
+## Conclusion
+AI tools can help students study faster and more effectively when used correctly.
+  `,
+  image: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55e?w=1200',
+  date: 'April 18, 2026'
+},
+{
+  id: '12',
+  title: 'Best AI Tools for Coding',
+  excerpt: 'These AI coding tools help developers write, debug and understand code faster.',
+  content: `
+# Best AI Tools for Coding
+
+AI coding tools can save hours of work for developers.
+
+## GitHub Copilot
+GitHub Copilot suggests code while you type and helps complete functions quickly.
+
+## ChatGPT
+ChatGPT can explain code, fix bugs and generate code snippets.
+
+## Gemini
+Gemini is useful for coding explanations and project ideas.
+
+## Replit Ghostwriter
+Ghostwriter helps create code directly inside Replit.
+
+## Cursor AI
+Cursor AI is one of the most popular AI coding editors in 2026.
+
+## Conclusion
+For most developers, GitHub Copilot and ChatGPT are the best combination.
+  `,
+  image: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200',
+  date: 'April 18, 2026'
+},
+{
+  id: '13',
+  title: 'ChatGPT vs Gemini',
+  excerpt: 'Compare ChatGPT and Gemini to see which AI assistant is better in 2026.',
+  content: `
+# ChatGPT vs Gemini
+
+ChatGPT and Gemini are two of the most popular AI assistants.
+
+## ChatGPT
+ChatGPT is better for writing, coding and detailed explanations.
+
+## Gemini
+Gemini is better for research and works well with Google services.
+
+## Which Is Faster?
+Gemini is usually faster for short answers, while ChatGPT gives more detailed responses.
+
+## Which Is Better for Students?
+Students may prefer ChatGPT for explanations and Gemini for research.
+
+## Final Verdict
+If you want creativity and coding, choose ChatGPT. If you want fast research, choose Gemini.
+  `,
+  image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200',
+  date: 'April 18, 2026'
+},
+{
+  id: '14',
+  title: 'Best AI Image Generators',
+  excerpt: 'Explore the best AI image generators to create stunning images in seconds.',
+  content: `
+# Best AI Image Generators
+
+AI image generators allow users to create art, thumbnails and graphics.
+
+## Midjourney
+Midjourney creates highly realistic and artistic images.
+
+## DALL·E
+DALL·E is easy to use and works well for creative images.
+
+## Leonardo AI
+Leonardo AI is popular for gaming, characters and concept art.
+
+## Canva AI
+Canva AI is great for beginners who want quick social media graphics.
+
+## Which Is Best?
+Midjourney is best for quality, while Canva AI is easiest for beginners.
+  `,
+  image: 'https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=1200',
+  date: 'April 18, 2026'
+},
+{
+  id: '15',
+  title: 'Best AI Video Generators',
+  excerpt: 'These AI video generators can create videos, avatars and animations quickly.',
+  content: `
+# Best AI Video Generators
+
+AI video tools are becoming very popular in 2026.
+
+## Runway
+Runway is excellent for creating cinematic AI videos.
+
+## Pika Labs
+Pika Labs can generate short videos from text prompts.
+
+## Synthesia
+Synthesia creates AI avatar videos.
+
+## HeyGen
+HeyGen is useful for marketing and talking avatar videos.
+
+## Conclusion
+Runway is best for creative videos, while HeyGen and Synthesia are ideal for business videos.
+  `,
+  image: 'https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200',
+  date: 'April 18, 2026'
+}
 ];
 
 export const AGENT_IDEA_TEMPLATES: AgentIdea[] = [
