@@ -688,6 +688,57 @@ Runway is best for creative videos, while HeyGen and Synthesia are ideal for bus
   `,
   image: 'https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200',
   date: 'April 18, 2026'
+},
+{
+  id: '16',
+  title: 'Best AI Resume Builders',
+  excerpt: 'Create professional resumes in minutes using AI resume builders.',
+  content: `
+# Best AI Resume Builders
+
+AI resume builders help job seekers create better resumes quickly.
+
+## Kickresume
+Kickresume provides beautiful templates and AI-generated content.
+
+## Resume.io
+Resume.io is easy to use and helps create ATS-friendly resumes.
+
+## Rezi
+Rezi is designed specifically to optimize resumes for ATS systems.
+
+## Which Tool Is Best?
+Kickresume is best for design, while Rezi is better for ATS optimization.
+
+## Conclusion
+AI resume builders can save time and improve your chances of getting hired.
+  `,
+  image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200',
+  date: 'April 18, 2026'
+},
+{
+  id: '17',
+  title: 'Best AI Voice Generators',
+  excerpt: 'The best AI voice generators for videos, narration and business.',
+  content: `
+# Best AI Voice Generators
+
+AI voice generators can create realistic voices in seconds.
+
+## ElevenLabs
+ElevenLabs creates some of the most realistic AI voices.
+
+## Murf AI
+Murf AI is useful for business presentations and narration.
+
+## Play.ht
+Play.ht supports many languages and accents.
+
+## Conclusion
+ElevenLabs is the best overall, while Murf AI is great for professionals.
+  `,
+  image: 'https://images.unsplash.com/photo-1516321165247-4aa89a48be28?w=1200',
+  date: 'April 18, 2026'
 }
 ];
 
